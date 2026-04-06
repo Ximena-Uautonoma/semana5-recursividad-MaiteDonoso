@@ -18,5 +18,6 @@ def contar_recursivo(n):
     Retorna una lista con los números desde 1 hasta n usando recursividad.
     """
     # Escriba aquí su solución y borre la palabra pass de acontinuación
-    if == 1:
-    pass
+    if n == 1:
+        recur = []
+        recur.append(n)
